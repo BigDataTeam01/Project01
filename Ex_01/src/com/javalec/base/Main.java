@@ -16,7 +16,6 @@ public class Main {
 		num2 =scanner.nextInt();
 		num3 =scanner.nextInt();
 		
-		
 	}
 
 }
