@@ -7,10 +7,10 @@ public class devide {
 	}
 	
 	
-	public double devide (double x, double y, double z) {
+	public double devide (int x, int y, int z) {
 		
 		double result = 0;
-		result = x/y/z;
+		result = (double)x/(double)y/(double)z;
 		
 		return result; 
 	}
