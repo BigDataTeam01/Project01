@@ -1,6 +1,6 @@
 package com.javalec.PDG;
 
-public class remainder {
+public class Remainder {
 	
 	
 	

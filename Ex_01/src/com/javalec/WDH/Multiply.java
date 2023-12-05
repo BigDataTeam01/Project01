@@ -1,7 +1,7 @@
 package com.javalec.WDH;
 
-public class multiply {
-	public multiply() {
+public class Multiply {
+	public Multiply() {
 		// TODO Auto-generated constructor stub
 	}
 	

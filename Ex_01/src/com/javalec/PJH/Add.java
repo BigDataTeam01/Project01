@@ -1,14 +1,14 @@
 package com.javalec.PJH;
 
-public class add {
+public class Add {
 
 
 //
 public int addcalc(int num1,int num2, int num3) {
 
-	int sum = 0;
+	int add = 0;
 	
-	sum = num1+num2+num3;
-	return sum;
+	add = num1+num2+num3;
+	return add;
 }
 	}

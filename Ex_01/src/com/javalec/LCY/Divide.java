@@ -1,8 +1,8 @@
 package com.javalec.LCY;
 
-public class devide {
+public class Divide {
 	
-	public devide() {
+	public Divide() {
 		
 	}
 	
