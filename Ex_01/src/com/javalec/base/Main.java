@@ -12,7 +12,7 @@ public class Main {
 		int num2 =0;
 		int num3 =0;
 		
-		num1 =scanner.nextInt();
+		num1 =scanner.nextInt();						
 		num2 =scanner.nextInt();
 		num3 =scanner.nextInt();
 		
